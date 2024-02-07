@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning ... web development 
 - 💞️ I’m looking to collaborate on ...projects that can help and shape the world of technologies
 - 📫 How to reach me ... https://wa.me/233559956394
+
+- https://discord.com/invite/9Rktsqp5
+
+- https://x.com/dubem_umeh?t=DdhenfK7SohNus2wMFcHeA&s=09
+- 
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... In the early days of computing, computer programmers had to use punch cards to input data into the computer.
 
