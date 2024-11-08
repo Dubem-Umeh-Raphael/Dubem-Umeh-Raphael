@@ -8,8 +8,8 @@
 
 - https://x.com/dubem_umeh?t=DdhenfK7SohNus2wMFcHeA&s=09
 - 
-- <!--- 😄 Pronouns: ... he/him -->
-- <!-- ⚡ Fun fact: ... In the early days of computing, computer programmers had to use punch cards to input data into the computer. -->
+<!-- 😄 Pronouns: ... he/him -->
+<!-- ⚡ Fun fact: ... In the early days of computing, computer programmers had to use punch cards to input data into the computer. -->
 
 <!---
 Dubem-Umeh-Raphael/Dubem-Umeh-Raphael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
